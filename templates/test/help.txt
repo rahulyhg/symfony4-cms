@@ -1,0 +1,7 @@
+Assets video: https://symfonycasts.com/screencast/symfony/css-assets#play
+
+Generate URLS: https://symfonycasts.com/screencast/symfony/generating-urls#play
+
+Per mirar routes ./bin/console debug:router
+
+{{ path('test_page')}}
